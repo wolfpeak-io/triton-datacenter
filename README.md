@@ -6,7 +6,7 @@
  of the original project source. 
 
 * Docs
-* HowTo's
+* HowTos
 * Scripts
 * Utilities
 * headnode
